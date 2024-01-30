@@ -52,7 +52,7 @@ public class App {
 			@Override
 			protected PasswordAuthentication getPasswordAuthentication() {
 				
-				return new PasswordAuthentication("deppuv00@gmail.com", "*********") ;
+				return new PasswordAuthentication("deppuv00@gmail.com", "xxxxxxxxx") ;
 			}
 		});
 		session.setDebug(true);
